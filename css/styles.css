@@ -92,6 +92,7 @@ img {
     background-color: rgba(7, 90, 86, 0.651);
     color: white;
     text-shadow: 1px 1px black;
+    padding: 1rem;
 }
 
 .section2-heading {
@@ -101,7 +102,7 @@ img {
 
 /*Footer*/
 .footer {
-    margin-top: 1rem;
+    margin-top: 2rem;
     background-color: rgb(7, 90, 86);
     position: sticky;
     padding: 2rem;
