@@ -1,0 +1,1 @@
+# goleta-strength-club-responsive
